@@ -262,7 +262,7 @@ if "%1" == "pseudoxml" (
 
 if "%1" == "github" (
 	%SPHINXBUILD% -b html %ALLSPHINXOPTS% %BUILDDIR%/html
-	copy CNAME %BUILDDIR%/html
+	copy CNAME %BUILDDIR%\html
 	ghp-import -n -p -b master -f %BUILDDIR%/html/
 	if errorlevel 1 exit /b 1
 	echo.
