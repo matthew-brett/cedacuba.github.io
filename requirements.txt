@@ -1,0 +1,4 @@
+# Requirements file
+# Use with:  pip install -r requirements.txt
+sphinx
+git+https://github.com/davisp/ghp-import.git@ef30cbf83a9f3b4dfc42d97237816c7761226cf4#egg=ghp-import

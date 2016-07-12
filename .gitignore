@@ -1,0 +1,6 @@
+# Place where the built files go
+_build/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
