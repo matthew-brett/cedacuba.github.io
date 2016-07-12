@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Working on the course website &mdash; CeDA - Cubanos en Defensa de los Animales</title>
+    
+    <link rel="stylesheet" href="_static/haiku.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="top" title="CeDA - Cubanos en Defensa de los Animales" href="index.html" /> 
+  </head>
+  <body role="document">
+      <div class="header" role="banner"><img class="rightlogo" src="_static/logo.png" alt="Logo"/><h1 class="heading"><a href="index.html">
+          <span>CeDA - Cubanos en Defensa de los Animales</span></a></h1>
+        <h2 class="heading"><span>Working on the course website</span></h2>
+      </div>
+      <div class="topnav" role="navigation" aria-label="top navigation">
+      
+        <p>
+        <a class="uplink" href="index.html">Contenidos</a>
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="working-on-the-course-website">
+<h1>Working on the course website<a class="headerlink" href="#working-on-the-course-website" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>In <code class="docutils literal"><span class="pre">cmd</span></code> shell:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>cd c:\Users\valia\la-eeg-uci
+</pre></div>
+</div>
+<p>To get all the latest changes from github:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git pull
+</pre></div>
+</div>
+<p>To see what needs to be done</p>
+<blockquote>
+<div>git status</div></blockquote>
+<p>Change what you want to change in the <code class="docutils literal"><span class="pre">c:\Users\valia\la-eeg-uci</span></code> folder.</p>
+<p>Check what changes you have made to the files with:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git diff
+</pre></div>
+</div>
+<p>Check how the changes will look with:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>make html
+</pre></div>
+</div>
+<p>Then open the address
+<code class="docutils literal"><span class="pre">file://C:/Users/valia/la-eeg-uci/_build/html/index.html</span></code> in the web browser
+to see the website as it will look when pushed to github.</p>
+<p>When you&#8217;re happy with the changes, check them again:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git diff
+</pre></div>
+</div>
+<p>If they all look OK:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git commit -a -m &quot;Your message about the changes&quot;
+</pre></div>
+</div>
+<p>Send these changes to the source files up to github:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git push
+</pre></div>
+</div>
+<p>To publish the new changed files up to the website:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>make github
+</pre></div>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav" role="navigation" aria-label="bottom navigation">
+      
+        <p>
+        <a class="uplink" href="index.html">Contenidos</a>
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2016, Valia Rodriguez Rodriguez.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.6.
+    </div>
+  </body>
+</html>
