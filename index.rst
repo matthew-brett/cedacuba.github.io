@@ -74,6 +74,7 @@ Los voluntarios son personas que ocasionalmente ayudan en tareas del proyecto **
 .. toctree::
     :hidden:
 
+    directo    
     adopta
     esteriliza
     educa    
