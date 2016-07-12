@@ -3,7 +3,9 @@ Ayudando directamente a los animales de la calle
 ################################################
 
 
-Hay muchas formas de ayudar a los animales callejeros. Por ejemplo puedes:
+**Hay muchas formas de ayudar a los animales callejeros.**
+
+Por ejemplo puedes:
 
 * ser voluntario en tareas organizadas por CeDA
 
