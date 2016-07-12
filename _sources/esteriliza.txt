@@ -4,11 +4,18 @@ Esteriliza
 
 Una de las formas en que podemos contribuir a disminuir los animales callejeros es adoptando a algún perro o gato abandonado. Pero otra manera efectiva de ayudar es **esterilizando a los animales vagabundos y a nuestras mascotas**. 
 
-Mucha gente piensa que sólo los perros y gatos callejeros deben ser esterilizados. Sin embargo, **al reproducir a tus animales de compañía, le estás quitando la oportunidad a perros y gatos en adopción de encontrar un hogar**. Además, **nunca estarás seguro/a de que los cachorros que tenga tu animal quedarán en buenas manos y que no terminarán abandonados en la calle**. Recuerda que **buena parte de los animales vagabundos son o fueron hijos de animales caseros que fueron abandonados**.
+Mucha gente piensa que sólo los perros y gatos callejeros deben ser esterilizados. Sin embargo, **al reproducir a tus animales de compañía, le estás quitando la oportunidad a perros y gatos en adopción de encontrar un hogar**. Pero lo más importante, **NUNCA estarás seguro/a de que los cachorros que tenga tu animal quedarán en buenas manos y que no terminarán abandonados en la calle**. Recuerda que **buena parte de los animales vagabundos son o fueron hijos de animales caseros que fueron abandonados**.
+
+¿Sabes qué es la esterilización?
+================================
 
 La esterilización consiste en retirar ovarios y útero a las hembras y ambos testículos a los machos. La cirugía, que suele ser muy rápida, se lleva a cabo bajo anestesia general y suele requerir de pocos cuidados postoperatorios.
 
-Al esterilizar a tu animal mascota, no sólo estás ayudando a disminuir el problema de la sobrepoblación; también estás brindándole a tu perro o gato varios beneficios:
+
+Esterilizar es bueno para los animales
+======================================
+
+Al esterilizar a tu animal mascota, no sólo estás ayudando a disminuir el problema de la sobrepoblación, también estás brindándole a tu perro o gato varios beneficios:
 
 * En el caso de las hembras, la esterilización aumenta su esperanza de vida al  evitarle posibles problemas como tumores o infecciones en los ovarios o útero. De igual forma, **si esterilizas a tu perra o gata a una edad temprana -sobre todo antes del primer celo, entre los 4-6 meses de edad- disminuirá la incidencia de tumores mamarios**.
 
