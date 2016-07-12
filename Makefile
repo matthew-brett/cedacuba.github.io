@@ -217,6 +217,7 @@ pseudoxml:
 
 github:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	cp CNAME $(BUILDDIR)/html
 	ghp-import -n -p -b master $(BUILDDIR)/html/
 	@echo
 	@echo "Published to Github"
