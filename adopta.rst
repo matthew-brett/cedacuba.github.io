@@ -1,8 +1,10 @@
-﻿######
+﻿
 Adopta 
 ######
 
-**ADOPTAR en lugar de comprar animales, es uno de los caminos para terminar con la sobrepoblación de animales callejeros.**
+**ADOPTAR en lugar de comprar animales, es uno de los caminos para terminar con la sobrepoblación de animales callejeros**.
+
+
 
 `Sigue nuestras adopciones en Facebook <https://www.facebook.com/CeDAHabana/?ref=aymt_homepage_panel>`_
 

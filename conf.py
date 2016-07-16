@@ -108,13 +108,19 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'haiku'
+#html_theme = 'haiku'
+html_theme = 'agogo'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-"full_logo" : "false"
+#"full_logo" : "false"
+#"rigthsidebar":"true",
+#"headerbg":"lightgray",
+"textalign":"left",
+"pagewidth":"70em",
+"sidebarwidth":"20em"
 } 
 
 
@@ -130,7 +136,7 @@ html_title = u'CeDA - Cubanos en Defensa de los Animales'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = 'logo.png'
+html_logo = 'logoCeDA2.png'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -158,6 +164,7 @@ html_static_path = ['_static']
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {'**': ['cedacuba_sidebar.html']}
 
+
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
 #html_additional_pages = {}
@@ -166,7 +173,7 @@ html_sidebars = {'**': ['cedacuba_sidebar.html']}
 #html_domain_indices = True
 
 # If false, no index is generated.
-#html_use_index = True
+html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
 #html_split_index = False

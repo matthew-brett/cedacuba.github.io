@@ -1,9 +1,10 @@
-﻿################################################
+﻿
 Ayudando directamente a los animales de la calle
 ################################################
 
 
-**Hay muchas formas de ayudar a los animales callejeros.**
+Hay muchas formas de ayudar a los animales callejeros
+======================================================
 
 Por ejemplo puedes:
 
@@ -23,7 +24,7 @@ Por ejemplo puedes:
 
 * ayudándonos a difundir la esterilización como la mejor forma de reducir las poblaciones callejeras de perros y gatos
 
-* educando en tu barrio y en el centro de trabajo a niños, amigos, vecinos, colegas en que la violencia a los animales es cruel con el animal,  incrementa la violencia de la sociedad e interfiere con la salud mental de nuestros niños.
+* educando en tu barrio y en el centro de trabajo a niños, amigos, vecinos, colegas en que **la violencia a los animales es cruel con el animal,  incrementa la violencia de la sociedad e interfiere con la salud mental de nuestros niños**.
 
 
 Cómo rescatar un animal
@@ -63,7 +64,7 @@ Muchas veces para poder ayudar a un animalito de la calle, necesitamos un hogar 
 
 Ya que no contamos todavía con un refugio, el hogar de tránsito es la forma más efectiva para resguardar y tratar médicamente al animalito rescatado. **Cualquier persona puede ofrecer su vivienda como hogar de tránsito**. Sólo se necesita tener un espacio, las ganas y el corazón para ayudar. 
 
-Lo más importante para ser hogar de tránsito es que cuentes con un espacio SEGURO para alojar al animal que lo necesita porque NO QUERMOS QUE EL ANIMAL ESCAPE DE TU CASA y vuelva a la calle. No importa el tamaño del espacio, puede ser pequeñito como un baño, un cuartico pequeño, siempre y cuando lo saques a pasear en caso de que sea perro, le brindes todos los cuidados necesarios y le permitas convivir con el resto de la familia de cuando en cuando.
+Lo más importante para ser hogar de tránsito es que cuentes con un espacio SEGURO para alojar al animal que lo necesita porque NO QUEREMOS QUE EL ANIMAL ESCAPE DE TU CASA y vuelva a la calle. No importa el tamaño del espacio, puede ser pequeñito como un baño, un cuartico pequeño, siempre y cuando lo saques a pasear en caso de que sea perro, le brindes todos los cuidados necesarios y le permitas convivir con el resto de la familia de cuando en cuando.
 
 Si estás pensando en adoptar, pero aún tienes tus dudas, brindar tu casa para tránsito te permite vivir la experiencia de tener un animal en casa. Esta experiencia te puede ayudar a decidir. Cuando tomas la responsabilidad de convertirte en hogar de transito, te conviertes en parte primordial del proceso de rehabilitación del animal, quien después de vivir el maltrato y el abandono estará llegando a un hogar donde comenzará a confiar en la gente, recuperará sus fuerzas, su personalidad irá floreciendo, y comenzará a salir adelante gracias a tus cuidados. Muchas veces es en el hogar de tránsito donde los animales duermen por primera vez bajo un techo, aprenden a jugar, a comer apropiadamente y a convivir con otros animales.
 
