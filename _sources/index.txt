@@ -46,8 +46,8 @@ Contenidos que puedes encontrar en estas páginas
 .. The section below is useful to prevent warnings about pages not included
 
 .. toctree::
-         :includehidden:
-
+         :includehidden
+    
     quienes
     directo    
     adopta
