@@ -1,4 +1,4 @@
-﻿################
+﻿
 Memorias de CeDA
 ################
 
@@ -27,4 +27,4 @@ Memorias de CeDA
    		:align: center
 
 
-	* Creamos nuestra página `CeDa en la web <http://cedacuba.org>`_
+	* Creamos nuestra página en la web 
