@@ -38,15 +38,11 @@ Los pilares del trabajo de CeDA son:
 	* la educación de la sociedad en la no violencia hacia los animales vagabundos. 
 
 
-
-Contenidos que puedes encontrar en estas páginas
-++++++++++++++++++++++++++++++++++++++++++++++++
-
-
 .. The section below is useful to prevent warnings about pages not included
 
 .. toctree::
-         :includehidden:
+    :includehidden:
+    :hidden:
 
     quienes
     directo    
@@ -58,4 +54,3 @@ Contenidos que puedes encontrar en estas páginas
     violencia
     contacto
     dona
-
